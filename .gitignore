@@ -12,6 +12,3 @@ frontend/dist/
 .vscode/
 *.suo
 *.user
-
-# Claude Code
-.claude/
